@@ -1,2 +1,3 @@
 # FunderHack
-FunderHack
+Привет! данный чит клиент использует за основу сурсы excellent 
+Мы никак не связаны с MOJANG AB
